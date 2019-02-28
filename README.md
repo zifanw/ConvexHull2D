@@ -1,6 +1,6 @@
 # Convex Hull for 2D points
 
-#### Author: Zifan Wang, zifan.wang@sv.cmu.edu
+
 
 ## File Overview
 * Demo.ipynb: A jupyter notebook containing Demo and some test cases
